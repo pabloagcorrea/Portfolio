@@ -1,11 +1,13 @@
 # Portfolio
 ## Sobre mí
-Egresado de Testing en Jóvenes a Programar, de Ceibal. Trabajé en PedidosYa como Dispatch Agent y en Chatter Service un total combinado de apróximadamente 1 año y 8 meses. Mantengo nivel C1 en inglés autodidacto, tengo conocimientos básicos en HTML y Javascript, utilizo Photoshop, Excel y Word a nivel usuario y practico mecanografía, manteniendo un promedio de +130 palabras por minuto. Soy una persona con mucho potencial, motivación y ganas por aprender.
+Egresado de Testing en Jóvenes a Programar. También cursé Soporte IT de Google en Coursera. Tengo experiencia laboral de +2 años en roles de soporte y atención al cliente. Mantengo nivel B2 a C1 en inglés autodidacto, tengo conocimientos básicos en SQL, HTML y Javascript, y sé utilizar herramientas como Photoshop, Excel, JIRA, Zendesk y Freshchat a un nivel intermedio. También practico mecanografía, manteniendo un promedio de 120-130 palabras por minuto.
 
 ## Cursos
 Tester de Software - Jóvenes a Programar (230hs)
   Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
-   
+Soporte IT de Google - Coursera (157 horas)
+  Aspectos básicos de la asistencia técnica, sistemas operativos, administración de sistemas, redes y seguridad informática.
+
 ## Herramientas
 * Testlink
 * Jira
